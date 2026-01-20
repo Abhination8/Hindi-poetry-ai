@@ -51,3 +51,29 @@ User Feedback → Stored → Improves future poems
 ```bash
 git clone https://github.com/Abhination8/Hindi-poetry-ai.git
 cd Hindi-poetry-ai
+
+2. Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Set environment variables
+OPENAI_API_KEY=
+
+**🔒 Security & Ethics**
+	•	No copyrighted poems are stored or reproduced
+	•	Only stylistic abstractions are used
+	•	User-generated content remains local to the app
+
+**🔮 Future Enhancements**
+	•	Public poem pages
+	•	Vector embeddings for poems
+	•	Fine-tuning using high-quality outputs
+	•	Multi-language support
+
+👤 Author
+
+Abhishek Chaturvedi
+Product Manager | 
